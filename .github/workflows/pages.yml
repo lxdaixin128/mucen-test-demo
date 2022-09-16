@@ -21,4 +21,4 @@ jobs:
           # branch: master
           folder: dist 
           clean: true
-          ssh-key: ${{ secrets.ACCESS_TOKEN }}
+          # ssh-key: ${{ secrets.ACCESS_TOKEN }}
